@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 800,
+    "errorCount" : 4,
+    "errorPct" : 0.5,
+    "meanResTime" : 6276.423750000002,
+    "medianResTime" : 5124.5,
+    "minResTime" : 786.0,
+    "maxResTime" : 22906.0,
+    "pct1ResTime" : 12950.499999999998,
+    "pct2ResTime" : 15352.75,
+    "pct3ResTime" : 18549.71,
+    "throughput" : 31.99872005119795,
+    "receivedKBytesPerSec" : 591.1705719271229,
+    "sentKBytesPerSec" : 4.2285808567657295
+  },
+  "best-seller-books" : {
+    "transaction" : "best-seller-books",
+    "sampleCount" : 800,
+    "errorCount" : 4,
+    "errorPct" : 0.5,
+    "meanResTime" : 6276.423750000002,
+    "medianResTime" : 5124.5,
+    "minResTime" : 786.0,
+    "maxResTime" : 22906.0,
+    "pct1ResTime" : 12950.499999999998,
+    "pct2ResTime" : 15352.75,
+    "pct3ResTime" : 18549.71,
+    "throughput" : 31.99872005119795,
+    "receivedKBytesPerSec" : 591.1705719271229,
+    "sentKBytesPerSec" : 4.2285808567657295
+  }
+}
